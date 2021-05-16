@@ -1,1 +1,2 @@
 # Plotly_Deployment
+For this bellybutton biodiversity analysis, we sought to create an interactive webpage that filters different results for each volunteer. When switching between ID numbers, we can see the different demographic information and graphed bacterial data for each number. The first chart is a horiontal bar graph that displays the top 10 bacteria found in the bellybutton in descending order. There's also a bubble chart at the bottom of the page
